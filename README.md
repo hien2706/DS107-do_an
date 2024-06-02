@@ -15,6 +15,7 @@
 - assign_clusters(): Dùng các ma trận literal để gán nhãn các cụm cho bài toán.
 - **Bài toán còn áp dụng thêm các phương pháp như Minimize Maximum Diameter (MD), Max min split; Min max diameter (MS-MD), clustering constraints (CC)**
   bằng cách điều chỉnh các literal và mệnh đề. Chi tiết xem trong source code và bài báo.
+- **Loandra là một công cụ giải quyết vấn đề tối ưu hóa ràng buộc (Constraint Optimization Problems - COP) dựa trên các phương pháp SAT (Boolean Satisfiability Problem)**
   
 ### Giải thích các tham số truyền vào của hàm
 
