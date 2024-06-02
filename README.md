@@ -1,7 +1,7 @@
 # Giải thích đoạn mã clustering sử dụng framework của SATreeCraft 
 ## Kiến trúc, quá trình của đoạn mã 
 ![code architecture](images/clustering.jpg)
-##File pipeline
+## File pipeline
 
 ## Giải thích hàm:
 ### Giải thích ý nghĩa của các hàm
