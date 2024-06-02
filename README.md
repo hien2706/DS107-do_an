@@ -13,7 +13,7 @@
 - generate_constraints(): Tạo ra các cặp ML, CL cho việc gom cụm.
 - create_literal_matrices(): tạo các ma trận literal sau cùng
 - assign_clusters(): Dùng các ma trận literal để gán nhãn các cụm cho bài toán.
-  Bài toán còn áp dụng thêm các phương pháp như Max Diameter (MD), Max Diameter - Min Split (MS-MD), clustering constraints (CC) \
+- **Bài toán còn áp dụng thêm các phương pháp như Max Diameter (MD), Max Diameter - Min Split (MS-MD), clustering constraints (CC)** \
   bằng cách điều chỉnh các literal và mệnh đề. Chi tiết xem trong source code và bài báo.
   
 ### Giải thích các tham số truyền vào của hàm
