@@ -3,7 +3,7 @@
 ![code architecture](images/clustering.jpg)
 ##File pipeline
 
-##Giái thích hàm:
+## Giải thích hàm:
 ### Giải thích ý nghĩa của các hàm
 - TreeDataLoaderBinaryNumerical():  Trả về các biến cần thiết cho việc clustering: true labels, features, dataset,...
 - create_distance_classes(): Cho ra trận khoảng cách giữa các điểm và danh sách khoảng cách giữa các lớp
@@ -18,4 +18,4 @@
   
 ### Giải thích các tham số truyền vào của hàm
 
-##Kết quả cho ra
+## Kết quả cho ra
